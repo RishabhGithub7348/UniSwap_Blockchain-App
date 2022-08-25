@@ -1,0 +1,15 @@
+# UniSwap_Blockchain-App
+
+Krypt - Web 3.0 Blockchain Application
+Krypt
+
+![image](https://user-images.githubusercontent.com/75687649/186705867-96908a03-50f7-401d-91b5-548754e14c8c.png)
+
+Introduction
+This is a code repository related money transfer from one account to another account in blockchain.
+
+Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+
+Project created in collaboration with Enyel Sequeira: Portfolio - https://www.enyelsequeira.com E-mail - enyelsequeira1994@gmail.com Want me to cover the project you've created? Send me an e-mail 👌
+
+Launch your development career with project-based coaching - https://www.jsmastery.pro
